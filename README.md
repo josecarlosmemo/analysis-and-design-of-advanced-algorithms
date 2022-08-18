@@ -30,6 +30,7 @@
 
 <div>
 <img width="40px" height="40px" src="https://skillicons.dev/icons?i=cpp"/>
+<img width="40px" height="40px" src="https://skillicons.dev/icons?i=bash"/>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
