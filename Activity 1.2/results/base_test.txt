@@ -1,0 +1,19 @@
+---- Greedy Algorithm ----
+Total coins used: 7
+100
+100
+50
+7
+7
+1
+1
+
+---- Dynamic programming ----
+Total coins used: 7
+100
+100
+50
+7
+7
+1
+1
