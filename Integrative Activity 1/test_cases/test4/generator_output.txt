@@ -1,0 +1,26 @@
+--- Generating codes ---
+
+Generating code mcode1.txt
+Generated code of length 243 and saved to mcode1.txt
+Code: dabE8BA4AE7e640096FAe919f2DcAd6917B6dDbe5D10683b8Dbbdc1aEfbB2EE38cc5C00a85EfbdeD3a46ae6E20fD66afc7DF3DaBF0A9EDaFaf7D03fFE761B9319b75ADEbdED53Eb51E134fEAfADc5C8F393DaEfC43c09dfbAb4C3aBcD64f6fA2C38D8f501BbDfDF5Bde3Ee8eDcf279B3936DAB06E0548C4df95
+
+Generating code mcode2.txt
+Generated code of length 225 and saved to mcode2.txt
+Code: c7bCf4aA3f5B9C8273bEEcB4c6Ade7d27A71fB7C220D573Ff444eD6ca1be515bD2a4fD7fE9c054daBa27a6C49023fCd7b34762d75B5D335fFa3B3FbaA7abdaE9C16B1Fd9aD01585CbecfDDa4669Ffa044c5fBb25A226Bf7dbb7DbBc80CfdDBb935800A652F77AE04cd0137a677f71BFCc
+
+Generating code mcode3.txt
+Generated code of length 221 and saved to mcode3.txt
+Code: cC1bacf0da67F7929bfCF2C52E351765F9a365c0714DF0FE0E96C55725e3dbFe9c8f4A8C92a825A2f726ED2E6F9BE67c569FA66aCc44049ceac92C8dbC85e38352B0Fe2eD1aCAce4f3f2c6fDADFb5e2DD6CEf3Ad4d5b0C3BF0E8c8eB4CCf090a92d429B3EAa6dCED738e49F4BB41B
+
+
+--- Generating transmissions ---
+
+Generating transmission transmission1.txt
+Generated transmission of length 5030 with 0 codes and saved to transmission1.txt
+
+Generating transmission transmission2.txt
+Inserted code of length 243 at position 1296
+Inserted code: dabE8BA4AE7e640096FAe919f2DcAd6917B6dDbe5D10683b8Dbbdc1aEfbB2EE38cc5C00a85EfbdeD3a46ae6E20fD66afc7DF3DaBF0A9EDaFaf7D03fFE761B9319b75ADEbdED53Eb51E134fEAfADc5C8F393DaEfC43c09dfbAb4C3aBcD64f6fA2C38D8f501BbDfDF5Bde3Ee8eDcf279B3936DAB06E0548C4df95
+
+Generated transmission of length 1547 with 1 codes and saved to transmission2.txt
+

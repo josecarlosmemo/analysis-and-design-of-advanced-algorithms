@@ -1,0 +1,32 @@
+--- Generating codes ---
+
+Generating code mcode1.txt
+Generated code of length 17 and saved to mcode1.txt
+Code: AD8f7AfE19a576fe3
+
+Generating code mcode2.txt
+Generated code of length 18 and saved to mcode2.txt
+Code: 3cEaFACB81dd519BcB
+
+Generating code mcode3.txt
+Generated code of length 17 and saved to mcode3.txt
+Code: C33BDFF8dDCAef5B1
+
+
+--- Generating transmissions ---
+
+Generating transmission transmission1.txt
+Inserted code of length 17 at position 158
+Inserted code: AD8f7AfE19a576fe3
+
+Inserted code of length 17 at position 126
+Inserted code: C33BDFF8dDCAef5B1
+
+Inserted code of length 18 at position 235
+Inserted code: 3cEaFACB81dd519BcB
+
+Generated transmission of length 559 with 3 codes and saved to transmission1.txt
+
+Generating transmission transmission2.txt
+Generated transmission of length 723 with 0 codes and saved to transmission2.txt
+

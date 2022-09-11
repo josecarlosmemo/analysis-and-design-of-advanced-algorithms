@@ -1,0 +1,7 @@
+--- TEAM ---
+José Carlos Martínez Núñez | A01639664
+Tania Sayuri Guizado Hernández | A01640092
+
+--- PARTS WE WORKED ON ---
+José Carlos Martínez Núñez: generate_transmissions.cpp, computeLPSArray(), longest_common_substring()
+Tania Sayuri Guizado Hernández: findLongestPalindromicString(), KMP(), main()
