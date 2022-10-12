@@ -1,0 +1,187 @@
+DFS Trie
+
+ROOT --> A
+A --> X
+X --> G
+G --> h
+h --> S
+S --> W
+W --> R
+ROOT --> H
+H --> M
+M --> R
+R --> w
+w --> y
+y --> Q
+Q --> W
+ROOT --> J
+J --> n
+n --> c
+c --> B
+B --> Z
+Z --> w
+ROOT --> L
+L --> Z
+Z --> J
+J --> J
+J --> K
+ROOT --> R
+R --> G
+G --> r
+r --> O
+O --> X
+X --> v
+v --> V
+R --> x
+x --> V
+V --> C
+C --> e
+e --> P
+P --> D
+ROOT --> T
+T --> b
+b --> s
+s --> z
+z --> u
+u --> n
+ROOT --> d
+d --> E
+E --> U
+U --> t
+t --> I
+ROOT --> h
+h --> j
+j --> J
+J --> n
+n --> O
+O --> J
+J --> p
+ROOT --> i
+i --> i
+i --> M
+M --> f
+f --> n
+ROOT --> m
+m --> z
+z --> x
+x --> y
+y --> i
+i --> a
+a --> P
+ROOT --> n
+n --> K
+K --> i
+i --> h
+h --> T
+T --> v
+ROOT --> q
+q --> h
+h --> X
+X --> J
+J --> Q
+Q --> u
+ROOT --> r
+r --> S
+S --> G
+G --> L
+L --> g
+g --> Q
+ROOT --> v
+v --> Q
+Q --> m
+m --> P
+P --> H
+ROOT --> y
+y --> I
+I --> C
+C --> l
+l --> F
+F --> M
+
+
+DFS to Order Words
+
+AXGhSWR
+HMRwyQW
+JncBZw
+LZJJK
+RGrOXvV
+RxVCePD
+Tbszun
+dEUtI
+hjJnOJp
+iiMfn
+mzxyiaP
+nKihTv
+qhXJQu
+rSGLgQ
+vQmPH
+yIClFM
+
+
+
+Searching for HMRwyQW...
+
+ROOT --> H
+H --> M
+M --> R
+R --> w
+w --> y
+y --> Q
+Q --> W
+W --> END
+
+true
+
+Searching for hjJnOJp...
+
+ROOT --> h
+h --> j
+j --> J
+J --> n
+n --> O
+O --> J
+J --> p
+p --> END
+
+true
+
+Searching for vQmPH...
+
+ROOT --> v
+v --> Q
+Q --> m
+m --> P
+P --> H
+H --> END
+
+true
+
+Searching for iiMfn...
+
+ROOT --> i
+i --> i
+i --> M
+M --> f
+f --> n
+n --> END
+
+true
+
+Searching for esZYp...
+
+ROOT --> NULL
+false
+
+Searching for hjJnOJp...
+
+ROOT --> h
+h --> j
+j --> J
+J --> n
+n --> O
+O --> J
+J --> p
+p --> END
+
+true

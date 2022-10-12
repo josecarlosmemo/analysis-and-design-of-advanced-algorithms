@@ -1,0 +1,76 @@
+DFS Trie
+
+ROOT --> c
+c --> a
+a --> m
+m --> p
+a --> s
+s --> a
+s --> o
+ROOT --> i
+i --> c
+c --> p
+p --> c
+
+
+DFS to Order Words
+
+camp
+casa
+caso
+icpc
+
+
+
+Searching for camp...
+
+ROOT --> c
+c --> a
+a --> m
+m --> p
+p --> END
+
+true
+
+Searching for icpc...
+
+ROOT --> i
+i --> c
+c --> p
+p --> c
+c --> END
+
+true
+
+Searching for casa...
+
+ROOT --> c
+c --> a
+a --> s
+s --> a
+a --> END
+
+true
+
+Searching for caso...
+
+ROOT --> c
+c --> a
+a --> s
+s --> o
+o --> END
+
+true
+
+Searching for hola...
+
+ROOT --> NULL
+false
+
+Searching for case...
+
+ROOT --> c
+c --> a
+a --> s
+s --> NULL
+false

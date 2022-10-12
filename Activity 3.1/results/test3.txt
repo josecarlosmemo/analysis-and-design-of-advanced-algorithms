@@ -1,0 +1,118 @@
+DFS Trie
+
+ROOT --> G
+G --> N
+N --> D
+D --> n
+n --> f
+f --> R
+ROOT --> O
+O --> m
+m --> T
+T --> N
+N --> Q
+ROOT --> V
+V --> f
+f --> E
+E --> H
+H --> X
+X --> N
+N --> j
+ROOT --> b
+b --> W
+W --> D
+D --> x
+x --> N
+b --> j
+j --> z
+z --> n
+n --> s
+s --> G
+ROOT --> o
+o --> F
+F --> L
+L --> e
+e --> L
+ROOT --> y
+y --> L
+L --> z
+z --> P
+P --> G
+G --> t
+ROOT --> z
+z --> F
+F --> M
+M --> c
+c --> A
+A --> e
+
+
+DFS to Order Words
+
+GNDnfR
+OmTNQ
+VfEHXNj
+bWDxN
+bjznsG
+oFLeL
+yLzPGt
+zFMcAe
+
+
+
+Searching for GNDnfR...
+
+ROOT --> G
+G --> N
+N --> D
+D --> n
+n --> f
+f --> R
+R --> END
+
+true
+
+Searching for bjznsG...
+
+ROOT --> b
+b --> j
+j --> z
+z --> n
+n --> s
+s --> G
+G --> END
+
+true
+
+Searching for mrwbPA...
+
+ROOT --> NULL
+false
+
+Searching for bjznsG...
+
+ROOT --> b
+b --> j
+j --> z
+z --> n
+n --> s
+s --> G
+G --> END
+
+true
+
+Searching for rhxfs...
+
+ROOT --> NULL
+false
+
+Searching for bWDxN...
+
+ROOT --> b
+b --> W
+W --> D
+D --> x
+x --> N
+N --> END
+
+true

@@ -1,0 +1,88 @@
+DFS Trie
+
+ROOT --> a
+a --> b
+b --> e
+e --> j
+j --> a
+a --> n
+n --> a
+a --> l
+l --> y
+y --> z
+z --> e
+e --> d
+n --> c
+c --> h
+h --> o
+o --> a
+n --> d
+n --> v
+v --> i
+i --> l
+ROOT --> t
+t --> o
+o --> f
+f --> u
+o --> p
+t --> u
+u --> n
+n --> a
+
+
+DFS to Order Words
+
+abeja
+analyzed
+anchoa
+and
+anvil
+tofu
+top
+tuna
+
+
+
+Searching for tuna...
+
+ROOT --> t
+t --> u
+u --> n
+n --> a
+a --> END
+
+true
+
+Searching for abeja...
+
+ROOT --> a
+a --> b
+b --> e
+e --> j
+j --> a
+a --> END
+
+true
+
+Searching for andaluz...
+
+ROOT --> a
+a --> n
+n --> d
+d --> NULL
+false
+
+Searching for topper...
+
+ROOT --> t
+t --> o
+o --> p
+p --> NULL
+false
+
+Searching for together...
+
+ROOT --> t
+t --> o
+o --> NULL
+false

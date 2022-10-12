@@ -1,0 +1,12 @@
+4
+camp
+icpc
+casa
+caso
+6
+camp
+icpc
+casa
+caso
+hola
+case
