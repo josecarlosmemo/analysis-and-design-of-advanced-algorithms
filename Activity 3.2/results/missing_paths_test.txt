@@ -1,0 +1,39 @@
+Dijkstra: 
+node 1 to node 2 : 3
+node 1 to node 3 : 1
+node 1 to node 4 : 5
+node 1 to node 5 : 4
+node 1 to node 6 : 5
+node 2 to node 1 : INF
+node 2 to node 3 : INF
+node 2 to node 4 : 2
+node 2 to node 5 : 1
+node 2 to node 6 : 2
+node 3 to node 1 : INF
+node 3 to node 2 : 4
+node 3 to node 4 : 6
+node 3 to node 5 : 4
+node 3 to node 6 : 5
+node 4 to node 1 : INF
+node 4 to node 2 : INF
+node 4 to node 3 : INF
+node 4 to node 5 : 3
+node 4 to node 6 : 2
+node 5 to node 1 : INF
+node 5 to node 2 : INF
+node 5 to node 3 : INF
+node 5 to node 4 : INF
+node 5 to node 6 : 1
+node 6 to node 1 : INF
+node 6 to node 2 : INF
+node 6 to node 3 : INF
+node 6 to node 4 : INF
+node 6 to node 5 : INF
+
+Floyd: 
+0 3 1 5 4 5 
+INF 0 INF 2 1 2 
+INF 4 0 6 4 5 
+INF INF INF 0 3 2 
+INF INF INF INF 0 1 
+INF INF INF INF INF 0 
