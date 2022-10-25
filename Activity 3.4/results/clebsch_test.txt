@@ -1,0 +1,16 @@
+Node: 0, Assigned Color: 1
+Node: 1, Assigned Color: 0
+Node: 2, Assigned Color: 2
+Node: 3, Assigned Color: 1
+Node: 4, Assigned Color: 3
+Node: 5, Assigned Color: 2
+Node: 6, Assigned Color: 0
+Node: 7, Assigned Color: 2
+Node: 8, Assigned Color: 3
+Node: 9, Assigned Color: 0
+Node: 10, Assigned Color: 2
+Node: 11, Assigned Color: 3
+Node: 12, Assigned Color: 1
+Node: 13, Assigned Color: 0
+Node: 14, Assigned Color: 1
+Node: 15, Assigned Color: 0

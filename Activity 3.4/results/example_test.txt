@@ -1,0 +1,5 @@
+Node: 0, Assigned Color: 0
+Node: 1, Assigned Color: 0
+Node: 2, Assigned Color: 1
+Node: 3, Assigned Color: 2
+Node: 4, Assigned Color: 1

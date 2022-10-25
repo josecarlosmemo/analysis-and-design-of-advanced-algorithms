@@ -1,0 +1,1 @@
+No es posible asignar colores a los nodos
