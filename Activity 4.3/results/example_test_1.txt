@@ -1,0 +1,5 @@
+Input: 
+10
+2, 3, 4, 10, 40
+Output: 
+The element is present in the index: 3

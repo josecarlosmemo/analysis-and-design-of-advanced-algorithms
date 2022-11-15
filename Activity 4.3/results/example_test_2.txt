@@ -1,0 +1,5 @@
+Input: 
+11
+2, 3, 4, 10, 40
+Output: 
+The element is not present in the array
