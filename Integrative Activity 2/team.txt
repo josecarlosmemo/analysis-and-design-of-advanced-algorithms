@@ -1,0 +1,3 @@
+José Carlos Martínez Núñez | A01639664 : Kruskal & Ford-Fulkerson Algorithm
+Tania Sayuri Guizado Hernández | A01640092 : Convex Hull & Ford-Fulkerson Algorithm
+Gerardo Cortes Leal | A01639946 : Traveling Salesman & Ford-Fulkerson Algorithm
